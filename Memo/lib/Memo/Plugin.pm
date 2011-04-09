@@ -5,7 +5,7 @@
 package Memo::Plugin;
 
 use strict;
-use MT 4;
+use MT;
 use 5.010;
 #require MT::Log;
 #use Data::Dumper;
